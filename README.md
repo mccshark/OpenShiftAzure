@@ -2,8 +2,8 @@
 The following draft information is provided for OpenShift partners developing solutions for Microsoft Azure customers
 
 ### December 15th Update
-* [https://github.com/samueltauil/openshiftv3-workshop
-* https://github.com/samueltauil/openscap-openshiftHouston]()
+* [https://github.com/samueltauil/openshiftv3-workshop]()
+* [https://github.com/samueltauil/openscap-openshiftHouston]()
 
 ## Gitub RH/MS Slack Notes
 *OpenShift Enterprise Kuberneted Workshop for Microsoft Azure *
