@@ -1,6 +1,6 @@
 # OpenShift Workshop Roadshow
 
-The OpenShiftAzure project is an effort to provide a content toolkit and educational reference for effectively communicating and teaching Red Hat OpenShift Containter Platform (OCP) topics for customers implementing on Azure
+The OpenShiftAzure project is an effort to provide a content toolkit and educational reference for effectively communicating and teaching Red Hat OpenShift Container Platform (OCP) 3.7 topics for customers testing or deploying on Azure
 
 ## What's Provided
 The OpenShiftAzure project has been designed to be used as a toolkit and best practices reference for OpenShift presentations ranging from demos thru self-paced learning thru hands-on workshops. Here you will find:
