@@ -19,14 +19,13 @@ For demos and instrcutor-led exercises, conceptual understanding of linux system
 ## Workshops
 
 ### Upcoming - Cardinal Solutions
-
-* Columbus OH – 1/11/18
 * Nashville, TN – 1/18/18
 * Edina, MN – 1/31/18
 * Charlotte,NC – 2/8/18
 * Denver – 2/15/18
 
 ### Previous Workshops
+* Columbus OH – 1/11/18
 * Houston, TX - December 7th, 2017
 * Chicago, WA - December 6th, 2017
 * Burlington, MA - October 15, 2017
