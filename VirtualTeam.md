@@ -5,7 +5,7 @@
 * **Veer Muchandi** - Red Hat Principal Architect, Tiger Team | [github](https://github.com/veermuchandi)
 * **Samual Towell** - Red Hat Principal Architect, Tiger Team | [github](https://github.com/samueltauil)
 * **Shanna Chann** - Red Hat Senior Architect, Tiger Team
-* **Chakradhar Jonagam** - Red Hat 
+* **Chakradhar Jonagam** - Red Hat
 
 ## Cardinal Solutions
 * Branden Ebken
