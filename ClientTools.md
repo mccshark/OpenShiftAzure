@@ -14,7 +14,6 @@ For Linux and OSX users, decompress the zip file and copy the binary to the /usr
 For Windows users, go to http://git-scm.com/download/win to download git bash for Windows (during installation you need to specify in the selection to integrate with the command prompt). Then, unzip the OpenShift client tools compressed file and add the file path into the PATH environment variable.  
 
 ## Homebrew Install for Mac (Alternative)
-Install OpenShift CLI tools
 * brew install openshift-cli
 
 ## Labs
