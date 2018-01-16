@@ -15,13 +15,18 @@ For hands-on or self-paced training, students should have working knowledge of u
 
 For demos and instrcutor-led exercises, conceptual understanding of linux system admin, DevOps, microservices, VMs, and distributed application architecture is all that is required.
 
-## Workshops
-
-### Upcoming - Cardinal Solutions
+## Upcoming
+## Cardinal Solutions led Workshops
 * Nashville, TN – 1/18/18
 * Edina, MN – 1/31/18
 * Charlotte,NC – 2/8/18
 * Denver – 2/15/18
+
+## Artiq
+[Arctiq](https://www.arctiq.ca/draft_events/2018/1/7/openshift-on-azure-workshop/)
+* Toronto
+* Vancouver
+* Ottawa
 
 ### Previous Workshops
 * Columbus OH – 1/11/18
