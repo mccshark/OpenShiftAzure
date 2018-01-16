@@ -14,5 +14,5 @@
 * 2:15 – 3:00 Break
 * 3:00 – 3:10 Getting started w/ OpenShift on your Azure subscription – Eric Webb
 * 3:10 - 3:15 Intro to labs 10-15
-* 3:15 - 3:50 Labs 10-15
+* 3:15 - 3:50 Labs
 * 3:50 - 4:00 Wrap-up, suvey, & raffle - Eric Webb
