@@ -1,17 +1,15 @@
-# OpenShift Workshop for Azure Customers 
+# OpenShift Workshop for Azure Customers
 The following technical information is provided for OpenShift partners developing solutions for Microsoft Azure customers
 
-## Houston Workshop
-* [https://github.com/samueltauil/openshiftv3-workshop]()
-* [https://github.com/samueltauil/openscap-openshiftHouston]()
+## Labs/Demos
+* [OpenShift V3 Labs](https://github.com/samueltauil/openshiftv3-workshop)
+* [OpenSCAP Demo](https://github.com/samueltauil/openscap-openshiftHouston)
 
-## Gitub RH/MS Slack Notes
-*OpenShift Enterprise Kuberneted Workshop for Microsoft Azure *
-
-* [http://aka.ms/OpenShift]()
+## Resources
+* [Microsoft](http://aka.ms/OpenShift)
 * [https://github.com/Microsoft/openshift-origin]()
 * [https://github.com/sozercan/OpenShift-Azure-Terraform]()
-* [https://github.com/openshift/openshift-ansible-contrib/tree/master/reference-architecture/azure-ansible]()
+* [Ansible](https://github.com/openshift/openshift-ansible-contrib/tree/master/reference-architecture/azure-ansible)
 * [https://testdrive.azure.com/#/test-drive/redhat.openshift-test-drive ]()
 * [https://access.redhat.com/documentation/en-us/reference_architectures/2017/html/deploying_red_hat_openshift_container_platform_3.5_on_microsoft_azure/]()
 * [https://github.com/sozercan/OpenShift-Azure-Terraform ]()
