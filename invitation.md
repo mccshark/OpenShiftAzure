@@ -21,3 +21,5 @@ In this workshop, Eric Webb, National Infrastructure Solution Manager at Cardina
 * execution.
 * Understand how to containerize legacy applications.
 * Deploy multi-tiered applications.
+
+[Cardinal Solutions](https://www.cardinalsolutions.com/redhatopenshift) workshops
