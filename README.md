@@ -23,7 +23,7 @@ For demos and instrcutor-led exercises, conceptual understanding of linux system
 * Nashville, TN – 2/21/18 ***rescheduled form 1/18/18 (snow day)**
 
 ###[Artiq](https://www.arctiq.ca/draft_events/2018/1/7/openshift-on-azure-workshop/) Workshops
-* Toronto
+* Toronto - March
 * Vancouver
 * Ottawa
 
