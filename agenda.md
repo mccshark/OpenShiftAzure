@@ -1,4 +1,4 @@
-# Nashville Workshop Agenda
+# Workshop Agenda
 * 8:30 – 9:00 Breakfast
 * 9:00 – 9:15 Welcome – Jeff Ekstrom, Red Hat
 * 9:15 – 9:45 Intro to Docker, Containers, Kubernetes, Microservices – Eric Webb, Cardinal Solutions

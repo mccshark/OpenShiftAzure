@@ -1,6 +1,6 @@
 # Virtual Team
 ## Red Hat
-* **Kevin McCauley** - Red Hat Cloud Alliance Manager, Business Development and Program Manager, CCSP Team | [email](mailto:kemccaul@redhat.com) | [github](https://github.com/mccshark/)
+* **Kevin McCauley** - Red Hat Cloud Alliance Manager, CCSP Team | [email](mailto:kemccaul@redhat.com) | [github](https://github.com/mccshark/)
 * **Joe Mann** - Red Hat Senior Cloud Architect, CCSP Team
 * **Jeff Ekstrom** - Red Senior Cloud Specialists, CCSP Team
 * **Veer Muchandi** - Red Hat Principal Architect, Tiger Team | [github](https://github.com/veermuchandi)
@@ -14,5 +14,5 @@
 * **Harold Wong** - Senior Software Engineer, OCP Team | [github](https://github.com/haroldwongms)
 * **Joey Schluchter** - Senior Cloud Evangelist, Open Source, Global Blackbelt Team
 ## Spektra
-**Manesh Raveendran** - CEO
-**Mazhar Hussain Warsi** - OpenShift Portal lead
+* **Manesh Raveendran** - CEO
+* **Mazhar Hussain Warsi** - OpenShift Portal lead
