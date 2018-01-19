@@ -10,19 +10,19 @@ The OpenShiftAzure project has been designed to be used as a toolkit and best pr
 * Lab Provisioner
 * Facilitator Guide
 
-###Assumed Knowledge
+### Assumed Knowledge
 For hands-on or self-paced training, students should have working knowledge of using an Azure subscription, SSH and command line shell (BASH). The ability to SSH from their personal laptop to a lab environment hosted in Azure public cloud can also be required based on the format and presentation of the context.
 
 For demos and instrcutor-led exercises, conceptual understanding of linux system admin, DevOps, microservices, VMs, and distributed application architecture is all that is required.
 
-##Upcoming
-###[Cardinal Solutions](https://www.cardinalsolutions.com/redhatopenshift) Workshops
+## Upcoming
+### [Cardinal Solutions](https://www.cardinalsolutions.com/redhatopenshift) Workshops
 * Edina, MN – 1/31/18
 * Charlotte,NC – 2/8/18
 * Denver – 2/15/18
 * Nashville, TN – 2/21/18 ***rescheduled form 1/18/18 (snow day)**
 
-###[Artiq](https://www.arctiq.ca/draft_events/2018/1/7/openshift-on-azure-workshop/) Workshops
+### [Artiq](https://www.arctiq.ca/draft_events/2018/1/7/openshift-on-azure-workshop/) Workshops
 * Toronto - March
 * Vancouver
 * Ottawa
