@@ -4,7 +4,8 @@ The following technical information is provided for OpenShift partners developin
 ## Labs/Demos
 * [OpenShift V3 Labs](https://github.com/samueltauil/openshiftv3-workshop)
 * [OpenSCAP Demo](https://github.com/samueltauil/openscap-openshiftHouston)
-
+* [OpenShift for Ops Test Drive](https://www.redhat.com/en/engage/openshift-storage-testdrive-20170718)
+* Github [repo](https://dmesser.github.io/ocp-3.6-cns-3.5-lab/)
 ## Resources
 * [Microsoft](http://aka.ms/OpenShift)
 * [https://github.com/Microsoft/openshift-origin]()
