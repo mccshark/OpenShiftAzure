@@ -6,12 +6,12 @@ The following technical information is provided for OpenShift partners developin
 * Learn how to run OpenShift Container Platform [OpenShift for Ops Test Drive](https://www.redhat.com/en/engage/openshift-storage-testdrive-20170718), Github [repo](https://dmesser.github.io/ocp-3.6-cns-3.5-lab/) with lab instructions
 
 ## Individual Demos/use cases
-* [OpenSCAP Demo](https://github.com/samueltauil/openscap-openshiftHouston)
+* OpenSCAP [demo](https://github.com/samueltauil/openscap-openshift)
 
 ## OpenShift Resources
-* [Microsoft](http://aka.ms/OpenShift)
-* OpenShift [origin](https://github.com/Microsoft/openshift-origin)
-* [https://github.com/sozercan/OpenShift-Azure-Terraform]()
+* Microsoft OpenShift github [repo](http://aka.ms/OpenShift)
+* Microsoft OpenShift Origin [script](https://github.com/Microsoft/openshift-origin)
+* Azure & Terraform [script](https://github.com/sozercan/OpenShift-Azure-Terraform)
 * [Ansible](https://github.com/openshift/openshift-ansible-contrib/tree/master/reference-architecture/azure-ansible) reference architecture
 * Openshift [Test Drive](https://testdrive.azure.com/#/test-drive/redhat.openshift-test-drive) on Azure
 * Microsoft Azure OpenShift Reference [architecture](https://access.redhat.com/documentation/en-us/reference_architectures/2017/html/deploying_red_hat_openshift_container_platform_3.5_on_microsoft_azure/)
