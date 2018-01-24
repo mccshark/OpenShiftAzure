@@ -17,10 +17,9 @@ For demos and instrcutor-led exercises, conceptual understanding of linux system
 
 ## Upcoming
 ### [Cardinal Solutions](https://www.cardinalsolutions.com/redhatopenshift) Workshops
-* Edina, MN – 1/31/18
 * Charlotte,NC – 2/8/18
 * Denver – 2/15/18
-* Nashville, TN – 2/21/18 ***rescheduled form 1/18/18 (snow day)**
+* Nashville, TN – 2/21/18
 
 ### [Artiq](https://www.arctiq.ca/draft_events/2018/1/7/openshift-on-azure-workshop/) Workshops
 * Toronto - March
