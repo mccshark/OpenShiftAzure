@@ -5,6 +5,9 @@ The following technical information is provided for OpenShift partners developin
 * [OpenShift V3 Labs](https://github.com/samueltauil/openshiftv3-workshop) from the Tiger Team. Total of 18 HOLs
 * Learn how to run OpenShift Container Platform [OpenShift for Ops Test Drive](https://www.redhat.com/en/engage/openshift-storage-testdrive-20170718), Github [repo](https://dmesser.github.io/ocp-3.6-cns-3.5-lab/) with lab instructions
 
+* OpenShift Cloud-Native [Roadshow](http://guides-cdk-roadshow.b9ad.pro-us-east-1.openshiftapps.com/index.html#/workshop/roadshow/module/getting-started)
+OpenShift Container Platform and Container Native Storage Administrative Test Drive [Git Repository](https://github.com/openshift/openshift-cns-testdrive)
+
 ## Individual Demos/use cases
 * OpenSCAP [demo](https://github.com/samueltauil/openscap-openshift)
 
