@@ -11,11 +11,12 @@ The following technical information is provided for OpenShift partners developin
 ## OpenShift Resources
 * Microsoft OpenShift github [repo](http://aka.ms/OpenShift)
 * Microsoft OpenShift Origin [script](https://github.com/Microsoft/openshift-origin)
-* Azure Terraform [script](https://github.com/sozercan/OpenShift-Azure-Terraform) for OpenShift 3.6
+* Eric Jacob's [workshopper](https://github.com/openshift-evangelists/workshopper)
 * [Ansible](https://github.com/openshift/openshift-ansible-contrib/tree/master/reference-architecture/azure-ansible) reference architecture
 * Openshift [Test Drive](https://testdrive.azure.com/#/test-drive/redhat.openshift-test-drive) on Azure
 * Microsoft Azure OpenShift Reference [architecture](https://access.redhat.com/documentation/en-us/reference_architectures/2017/html/deploying_red_hat_openshift_container_platform_3.5_on_microsoft_azure/)
 * Terraform [script](https://github.com/sozercan/OpenShift-Azure-Terraform)
+* Terraform2 [script](https://github.com/sozercan/OpenShift-Azure-Terraform) for OpenShift 3.6
 
 ## Demo Apps on github
 * MLB Baseball Park [app]https://github.com/gshipley/openshift3mlbparks)
