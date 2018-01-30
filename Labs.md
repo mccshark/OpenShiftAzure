@@ -5,11 +5,11 @@
 
 ## OpenShift on Azure Workshop labs
 [labs](https://github.com/RedHatWorkshops/openshiftv3-workshop)
-Lab 0. Setting up client tools
-Lab 1. 22-Containerize-Outage-App
-Lab 2. Creating an application from an existing Docker Image using CLI
-Lab 3. Create an application using Docker Build Strategy using CLI
-Lab 4. Using Web Console
+* Setting up client tools
+* Containerize-Outage-App
+* Creating an application from an existing Docker Image using CLI
+* Create an application using Docker Build Strategy using CLI
+* Using Web Console
 Lab 5. Creating an application using JBoss EAP builder image
 Lab 6. Creating an application with frontend and backend database using templates
 Lab 7. Scale Up Scale Down and Idle the application instances
