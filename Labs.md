@@ -46,8 +46,7 @@
 19. Changing code on the fly
 20. Deploy .Net core application
 
-## Internactive Learning Portal
-[labs](https://learn.openshift.com)
+## Internactive Learning [Portal](https://learn.openshift.com)
 Our Interactive Learning Scenarios provide you with a pre-configured OpenShift instance, accessible from your browser without any downloads or configuration. Use it to experiment, learn OpenShift and see how we can help solve real-world problems.
 
 **Foundations of OpenShift**
