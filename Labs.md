@@ -1,29 +1,28 @@
 # OpenShift Hands-on-Labs Enviroments & Resources
 
-## Red Hat Workshop Resources (RedHatWorkshops)
-[github](https://github.com/RedHatWorkshops)
+## Red Hat Workshop [Resources](https://github.com/RedHatWorkshops)
 
-## OpenShift on Azure Workshop Labs (opeenshiftv3-workshop)
-[github](https://github.com/RedHatWorkshops/openshiftv3-workshop)
-* Setting up client tools
-* Containerize-Outage-App
-* Creating an application from an existing Docker Image using CLI
-* Create an application using Docker Build Strategy using CLI
-* Using Web Console
-* Creating an application using JBoss EAP builder image
-* Creating an application with frontend and backend database using templates
-* Scale Up Scale Down and Idle the application instances
-* Binary deployment of a war file
-* Using SSL In your Application
-* Blue-Green Deployments
-* SCM - Web Hooks
-* Rollback Applications
-* Code Promotion Across Environments
-* Deploy Spring Boot Application
-* Adding Spring Boot to Project Catalog
-* Adding Database to your SpringBoot App
-* Dynamic Configuration updates using ConfigMap
-* Changing code on the fly
+## OpenShift Tiger Team Workshop [labs](https://github.com/RedHatWorkshops/openshiftv3-workshop)
+
+1. Setting up client tools
+1. Containerize-Outage-App
+1. Creating an application from an existing Docker Image using CLI
+1. Create an application using Docker Build Strategy using CLI
+1. Using Web Console
+1. Creating an application using JBoss EAP builder image
+1. Creating an application with frontend and backend database using templates
+1. Scale Up Scale Down and Idle the application instances
+1. Binary deployment of a war file
+1. Using SSL In your Application
+1. Blue-Green Deployments
+1. SCM - Web Hooks
+1. Rollback Applications
+1. Code Promotion Across Environments
+1. Deploy Spring Boot Application
+1. Adding Spring Boot to Project Catalog
+1. Adding Database to your SpringBoot App
+1. Dynamic Configuration updates using ConfigMap
+1. Changing code on the fly
 
 ## OpenShift "Workshopper" [labs](http://labs.apps.ocp.cloudvillage.in/#/workshop/ocptigerteam/module/0-setting-up-client-tools)
 1. Setting up client tools
@@ -48,7 +47,7 @@
 20. Deploy .Net core application
 
 ## Internactive Learning Portal
-[labs](learn.openshift.com)
+[labs](https://learn.openshift.com)
 Our Interactive Learning Scenarios provide you with a pre-configured OpenShift instance, accessible from your browser without any downloads or configuration. Use it to experiment, learn OpenShift and see how we can help solve real-world problems.
 
 **Foundations of OpenShift**
