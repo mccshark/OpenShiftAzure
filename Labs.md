@@ -81,3 +81,6 @@ The Red Hat® OpenShift Container Platform test drive provides system administra
 * How to install and configure container-native storage featuring Red Hat Gluster Storage inside OpenShift Container Platform.
 * How to perform basic administrative and maintenance operations.
 * Basic application life cycle with health and readiness monitoring.
+
+# CloudForms
+Using CloudForms on OCP, Samuel Tauil [github](https://github.com/samueltauil/cloud-notes/wiki/CloudForms-on-OCP)
