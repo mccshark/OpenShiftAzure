@@ -11,7 +11,7 @@
 * 1:00 – 1:15 Break
 * 1:15 – 1:20 Overview of labs 5-10
 * 1:20 – 2:00 Labs
-* 2:00 – 2:45 CI/CD with OpenShift - Samuel De Lima Tauil
+* 2:00 – 2:45 CI/CD with Jenkins - Samuel De Lima Tauil
 * 2:45 - 2:55 Break
 * 2:55 - 3:00 Intro to labs 10-15 - Eric Webb
 * 3:00 - 3:30 Labs
