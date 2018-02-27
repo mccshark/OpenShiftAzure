@@ -1,7 +1,7 @@
 # OpenShift Workshop for Azure Customers
 The following technical information is provided for OpenShift partners developing solutions for Microsoft Azure customers
 
-## Labs/
+## Labs
 * [OpenShift V3 Labs](https://github.com/samueltauil/openshiftv3-workshop) from the Tiger Team. Total of 18 HOLs
 * Learn how to run OpenShift Container Platform [OpenShift for Ops Test Drive](https://www.redhat.com/en/engage/openshift-storage-testdrive-20170718), Github [repo](https://dmesser.github.io/ocp-3.6-cns-3.5-lab/) with lab instructions
 

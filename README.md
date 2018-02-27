@@ -1,6 +1,8 @@
 # OpenShift Workshop Roadshow
 The OpenShiftAzure project is an effort to provide a content toolkit and educational reference for effectively communicating and teaching Red Hat OpenShift Container Platform (OCP) 3.7 topics for customers testing or deploying on Azure
 
+![](./images/openshift.jpg)
+
 ## What's Provided
 The OpenShiftAzure project has been designed to be used as a toolkit and best practices reference for OpenShift presentations ranging from demos thru self-paced learning thru hands-on workshops. Here you will find:
 
@@ -17,8 +19,7 @@ For demos and instrcutor-led exercises, conceptual understanding of linux system
 
 ## Upcoming
 ### [Cardinal Solutions](https://www.cardinalsolutions.com/redhatopenshift) Workshops
-* Charlotte,NC – 2/8/18
-* Denver – 2/15/18
+
 * Nashville, TN – 2/21/18
 
 ### [Artiq](https://www.arctiq.ca/draft_events/2018/1/7/openshift-on-azure-workshop/) Workshops
@@ -27,6 +28,8 @@ For demos and instrcutor-led exercises, conceptual understanding of linux system
 * Ottawa
 
 ### Previous Workshops
+* Charlotte,NC – 2/8/18
+* Denver – 2/15/18
 * Columbus OH – January 11th 2018
 * Houston, TX - December 7th, 2017
 * Chicago, WA - December 6th, 2017
