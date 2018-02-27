@@ -17,19 +17,14 @@ For hands-on or self-paced training, students should have working knowledge of u
 
 For demos and instrcutor-led exercises, conceptual understanding of linux system admin, DevOps, microservices, VMs, and distributed application architecture is all that is required.
 
-## Upcoming
+## Red Hat Partners
 ### [Cardinal Solutions](https://www.cardinalsolutions.com/redhatopenshift) Workshops
-
-* Nashville, TN – 2/21/18
-
-### [Artiq](https://www.arctiq.ca/draft_events/2018/1/7/openshift-on-azure-workshop/) Workshops
-* Toronto - March
-* Vancouver
-* Ottawa
+### [Artiq](https://www.arctiq.ca/)
 
 ### Previous Workshops
-* Charlotte,NC – 2/8/18
+* Nashville, TN – 2/21/18
 * Denver – 2/15/18
+* Charlotte,NC – 2/8/18
 * Columbus OH – January 11th 2018
 * Houston, TX - December 7th, 2017
 * Chicago, WA - December 6th, 2017

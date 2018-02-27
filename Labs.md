@@ -1,30 +1,6 @@
 # OpenShift Hands-on-Labs Enviroments & Resources
-
 ## Red Hat Workshop [Resources](https://github.com/RedHatWorkshops)
-
 ## OpenShift Tiger Team Workshop [labs](https://github.com/RedHatWorkshops/openshiftv3-workshop)
-
-1. Setting up client tools
-1. Containerize-Outage-App
-1. Creating an application from an existing Docker Image using CLI
-1. Create an application using Docker Build Strategy using CLI
-1. Using Web Console
-1. Creating an application using JBoss EAP builder image
-1. Creating an application with frontend and backend database using templates
-1. Scale Up Scale Down and Idle the application instances
-1. Binary deployment of a war file
-1. Using SSL In your Application
-1. Blue-Green Deployments
-1. SCM - Web Hooks
-1. Rollback Applications
-1. Code Promotion Across Environments
-1. Deploy Spring Boot Application
-1. Adding Spring Boot to Project Catalog
-1. Adding Database to your SpringBoot App
-1. Dynamic Configuration updates using ConfigMap
-1. Changing code on the fly
-
-## OpenShift "Workshopper" [labs](http://labs.apps.ocp.cloudvillage.in/#/workshop/ocptigerteam/module/0-setting-up-client-tools)
 1. Setting up client tools
 2. Create an App from a Docker image
 3. Create an App using Docker build

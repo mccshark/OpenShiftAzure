@@ -15,7 +15,6 @@
 ## Microsoft
 * **Harold Wong** - Senior Software Engineer, OCP Team | [github](https://github.com/haroldwongms)
 * **Dan Sandlin** - American's lead, OSS Blackbelt Team
-* **Joey Schluchter** - Senior Cloud Evangelist, Open Source, Global Blackbelt Team
 ## Spektra
 * **Manesh Raveendran** - CEO
 * **Mazhar Hussain Warsi** - OpenShift Portal lead
